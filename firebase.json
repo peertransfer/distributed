@@ -1,5 +1,5 @@
 {
-  "firebase": "blinding-torch-6662",
+  "firebase": "flywire-retrospectives",
   "public": ".",
   "ignore": [
     "firebase.json",
