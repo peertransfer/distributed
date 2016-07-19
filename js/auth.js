@@ -3,7 +3,7 @@
 angular
   .module('fireideaz')
   .service('Auth', function () {
-    var mainRef = new Firebase('https://blinding-torch-6662.firebaseio.com');
+    var mainRef = new Firebase('https://flywire-retrospectives.firebaseio.com');
 
     function logUser(user, callback) {
       mainRef.unauth();
